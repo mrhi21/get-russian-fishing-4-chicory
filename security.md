@@ -195,4 +195,4 @@ Use the button in the Quick Start section.
 
 ---
 
-*Russian Fishing 4 · Updated 2026-11-16 · Shared under the MIT License*
+*Russian Fishing 4 · Updated 2026-11-17 · Shared under the MIT License*
